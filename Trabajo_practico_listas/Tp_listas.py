@@ -104,5 +104,3 @@ Imprimir la lista resultante por pantalla. """
 
 lista_anidada = [[15], [True], [25.5, 57.9, 30.6], [False],]
 print(lista_anidada)
-mi_lista = {1,2,2,3,3,3}
-print(mi_lista)
